@@ -1,0 +1,9 @@
+[submodule "Pneumonia-Diagnosis-System-Frontend"]
+	path = Pneumonia-Diagnosis-System-Frontend
+	url = https://github.com/MohammadAbdullah5/Pneumonia-Diagnosis-System-Frontend
+[submodule "Pneumonia-Diagnosis-System-Backend"]
+	path = Pneumonia-Diagnosis-System-Backend
+	url = https://github.com/MohammadAbdullah5/Pneumonia-Diagnosis-System-Backend
+[submodule "Pneumonia-Diagnosis-System-Model"]
+	path = Pneumonia-Diagnosis-System-Model
+	url = https://github.com/MohammadAbdullah5/Pneumonia-Diagnosis-System-Model
